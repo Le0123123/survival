@@ -1,18 +1,396 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: FailedToConnect
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: FailedToConnect
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: FailedToConnect
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: FailedToConnect
-[2J8[0mGot Error
-MSG: Failed to setup tunnel client
-Error: FailedToConnect
-[2J8[0mGot Error
-MSG: Final attempted failed to setup tunnel
-Error: FailedToConnect
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1722111730445 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD126M0AAAAAQAAAAEAAAAAAAAAAB9N5l69jIOLqv43WDjhSzz4X8QAGLXyGOWTI4YiJmr2
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111733548 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD126M0AAAAAQAAAAEAAAAAAAAAAB9N5l69jIOLqv43WDjhSzz4X8QAGLXyGOWTI4YiJmr2
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111736629 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD126M0AAAAAQAAAAEAAAAAAAAAAB9N5l69jIOLqv43WDjhSzz4X8QAGLXyGOWTI4YiJmr2
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111739751 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD126M0AAAAAQAAAAEAAAAAAAAAAB9N5l69jIOLqv43WDjhSzz4X8QAGLXyGOWTI4YiJmr2
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111742789 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD126M0AAAAAQAAAAEAAAAAAAAAAB9N5l69jIOLqv43WDjhSzz4X8QAGLXyGOWTI4YiJmr2
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111745823 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD12984AAAAAQAAAAEAAAAAAAAAAJlBgy60AFBlI_p8mIEkBCDyE3u9K8JCHZWm-7-sj1lz
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111748913 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD12984AAAAAQAAAAEAAAAAAAAAAJlBgy60AFBlI_p8mIEkBCDyE3u9K8JCHZWm-7-sj1lz
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111751949 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD12984AAAAAQAAAAEAAAAAAAAAAJlBgy60AFBlI_p8mIEkBCDyE3u9K8JCHZWm-7-sj1lz
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111755046 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD12984AAAAAQAAAAEAAAAAAAAAAJlBgy60AFBlI_p8mIEkBCDyE3u9K8JCHZWm-7-sj1lz
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111758075 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD12984AAAAAQAAAAEAAAAAAAAAAJlBgy60AFBlI_p8mIEkBCDyE3u9K8JCHZWm-7-sj1lz
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111761122 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13BsDAAAAAQAAAAEAAAAAAAAAAMAaMtN5exHpch1gRGzbOzrQnuELTTSUmzac16SMUJwo
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111764279 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13BsDAAAAAQAAAAEAAAAAAAAAAMAaMtN5exHpch1gRGzbOzrQnuELTTSUmzac16SMUJwo
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111767326 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13BsDAAAAAQAAAAEAAAAAAAAAAMAaMtN5exHpch1gRGzbOzrQnuELTTSUmzac16SMUJwo
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111770378 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13BsDAAAAAQAAAAEAAAAAAAAAAMAaMtN5exHpch1gRGzbOzrQnuELTTSUmzac16SMUJwo
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111773422 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13BsDAAAAAQAAAAEAAAAAAAAAAMAaMtN5exHpch1gRGzbOzrQnuELTTSUmzac16SMUJwo
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111776621 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13FeMAAAAAQAAAAEAAAAAAAAAAFnVGIXEG1L6ljQ-HnvMGy5PvqMK0_pqbeWFpL5UMwFb
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111779713 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13FeMAAAAAQAAAAEAAAAAAAAAAFnVGIXEG1L6ljQ-HnvMGy5PvqMK0_pqbeWFpL5UMwFb
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111782802 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13FeMAAAAAQAAAAEAAAAAAAAAAFnVGIXEG1L6ljQ-HnvMGy5PvqMK0_pqbeWFpL5UMwFb
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111785851 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13FeMAAAAAQAAAAEAAAAAAAAAAFnVGIXEG1L6ljQ-HnvMGy5PvqMK0_pqbeWFpL5UMwFb
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111788963 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13FeMAAAAAQAAAAEAAAAAAAAAAFnVGIXEG1L6ljQ-HnvMGy5PvqMK0_pqbeWFpL5UMwFb
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111792001 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13JOhAAAAAQAAAAEAAAAAAAAAADnXxjfdrPvbMVCxEsjFllkScNX8U4fW6DgEvPRV-MVn
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111795093 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13JOhAAAAAQAAAAEAAAAAAAAAADnXxjfdrPvbMVCxEsjFllkScNX8U4fW6DgEvPRV-MVn
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111798128 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13JOhAAAAAQAAAAEAAAAAAAAAADnXxjfdrPvbMVCxEsjFllkScNX8U4fW6DgEvPRV-MVn
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111801279 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13JOhAAAAAQAAAAEAAAAAAAAAADnXxjfdrPvbMVCxEsjFllkScNX8U4fW6DgEvPRV-MVn
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111804418 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13JOhAAAAAQAAAAEAAAAAAAAAADnXxjfdrPvbMVCxEsjFllkScNX8U4fW6DgEvPRV-MVn
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111807478 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13NAYAAAAAQAAAAEAAAAAAAAAAGEKWqvPME7n-R5zZgkjGDyCuu8yYdamkdIDZ0QptJBj
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111810555 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13NAYAAAAAQAAAAEAAAAAAAAAAGEKWqvPME7n-R5zZgkjGDyCuu8yYdamkdIDZ0QptJBj
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111813611 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13NAYAAAAAQAAAAEAAAAAAAAAAGEKWqvPME7n-R5zZgkjGDyCuu8yYdamkdIDZ0QptJBj
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111816664 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13NAYAAAAAQAAAAEAAAAAAAAAAGEKWqvPME7n-R5zZgkjGDyCuu8yYdamkdIDZ0QptJBj
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111819726 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13NAYAAAAAQAAAAEAAAAAAAAAAGEKWqvPME7n-R5zZgkjGDyCuu8yYdamkdIDZ0QptJBj
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111822788 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13QvmAAAAAQAAAAEAAAAAAAAAAOmtik6JpQNljehMj2NYm4mBlAJKUE3Eq9x962HMRcQC
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111825883 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13QvmAAAAAQAAAAEAAAAAAAAAAOmtik6JpQNljehMj2NYm4mBlAJKUE3Eq9x962HMRcQC
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111828927 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13QvmAAAAAQAAAAEAAAAAAAAAAOmtik6JpQNljehMj2NYm4mBlAJKUE3Eq9x962HMRcQC
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111831977 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13QvmAAAAAQAAAAEAAAAAAAAAAOmtik6JpQNljehMj2NYm4mBlAJKUE3Eq9x962HMRcQC
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111835044 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13QvmAAAAAQAAAAEAAAAAAAAAAOmtik6JpQNljehMj2NYm4mBlAJKUE3Eq9x962HMRcQC
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111838148 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13UfxAAAAAQAAAAEAAAAAAAAAAMghReK_oURcV8tHXN_eNoNimTXS808rr8A8uMpHAeqG
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111841265 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13UfxAAAAAQAAAAEAAAAAAAAAAMghReK_oURcV8tHXN_eNoNimTXS808rr8A8uMpHAeqG
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111844319 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13UfxAAAAAQAAAAEAAAAAAAAAAMghReK_oURcV8tHXN_eNoNimTXS808rr8A8uMpHAeqG
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111847369 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13UfxAAAAAQAAAAEAAAAAAAAAAMghReK_oURcV8tHXN_eNoNimTXS808rr8A8uMpHAeqG
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111850462 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13UfxAAAAAQAAAAEAAAAAAAAAAMghReK_oURcV8tHXN_eNoNimTXS808rr8A8uMpHAeqG
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111853531 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13YP_AAAAAQAAAAEAAAAAAAAAALcgtow9qsZL_Oyd7niV8XvM_QrkjkRU1DY8DAhiUzJT
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111856653 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13YP_AAAAAQAAAAEAAAAAAAAAALcgtow9qsZL_Oyd7niV8XvM_QrkjkRU1DY8DAhiUzJT
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111859702 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13YP_AAAAAQAAAAEAAAAAAAAAALcgtow9qsZL_Oyd7niV8XvM_QrkjkRU1DY8DAhiUzJT
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111862775 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13YP_AAAAAQAAAAEAAAAAAAAAALcgtow9qsZL_Oyd7niV8XvM_QrkjkRU1DY8DAhiUzJT
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111865818 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13YP_AAAAAQAAAAEAAAAAAAAAALcgtow9qsZL_Oyd7niV8XvM_QrkjkRU1DY8DAhiUzJT
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111868875 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13b_rAAAAAQAAAAEAAAAAAAAAAPweOeME5p6pkrLDwWfDeZK_GJ4nWD3_LY4rPjd0Hh_z
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111872075 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13b_rAAAAAQAAAAEAAAAAAAAAAPweOeME5p6pkrLDwWfDeZK_GJ4nWD3_LY4rPjd0Hh_z
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111875167 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13b_rAAAAAQAAAAEAAAAAAAAAAPweOeME5p6pkrLDwWfDeZK_GJ4nWD3_LY4rPjd0Hh_z
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111878234 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13b_rAAAAAQAAAAEAAAAAAAAAAPweOeME5p6pkrLDwWfDeZK_GJ4nWD3_LY4rPjd0Hh_z
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111881282 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13b_rAAAAAQAAAAEAAAAAAAAAAPweOeME5p6pkrLDwWfDeZK_GJ4nWD3_LY4rPjd0Hh_z
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111884334 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13fxZAAAAAQAAAAEAAAAAAAAAALZtZNlx1Gx33Hw-h6XHlPczYmvfHC7gFgzgNyexwX2p
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111887438 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13fxZAAAAAQAAAAEAAAAAAAAAALZtZNlx1Gx33Hw-h6XHlPczYmvfHC7gFgzgNyexwX2p
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111890490 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13fxZAAAAAQAAAAEAAAAAAAAAALZtZNlx1Gx33Hw-h6XHlPczYmvfHC7gFgzgNyexwX2p
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111893554 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13fxZAAAAAQAAAAEAAAAAAAAAALZtZNlx1Gx33Hw-h6XHlPczYmvfHC7gFgzgNyexwX2p
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111896599 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13fxZAAAAAQAAAAEAAAAAAAAAALZtZNlx1Gx33Hw-h6XHlPczYmvfHC7gFgzgNyexwX2p
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111899646 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13jgeAAAAAQAAAAEAAAAAAAAAACboCBZSO2VqFpblMXEuNVvaFDcbsrf6oHfjLdMqmtPK
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111902758 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13jgeAAAAAQAAAAEAAAAAAAAAACboCBZSO2VqFpblMXEuNVvaFDcbsrf6oHfjLdMqmtPK
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111905845 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13jgeAAAAAQAAAAEAAAAAAAAAACboCBZSO2VqFpblMXEuNVvaFDcbsrf6oHfjLdMqmtPK
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111908899 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13jgeAAAAAQAAAAEAAAAAAAAAACboCBZSO2VqFpblMXEuNVvaFDcbsrf6oHfjLdMqmtPK
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111911986 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13jgeAAAAAQAAAAEAAAAAAAAAACboCBZSO2VqFpblMXEuNVvaFDcbsrf6oHfjLdMqmtPK
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111915069 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13nRgAAAAAQAAAAEAAAAAAAAAAKb5jkBMT80mVezOKIXHCGTjBzvqHsNv1U4hSPiuCBLS
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111918154 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13nRgAAAAAQAAAAEAAAAAAAAAAKb5jkBMT80mVezOKIXHCGTjBzvqHsNv1U4hSPiuCBLS
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111921221 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13nRgAAAAAQAAAAEAAAAAAAAAAKb5jkBMT80mVezOKIXHCGTjBzvqHsNv1U4hSPiuCBLS
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111924276 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13nRgAAAAAQAAAAEAAAAAAAAAAKb5jkBMT80mVezOKIXHCGTjBzvqHsNv1U4hSPiuCBLS
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111927337 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13nRgAAAAAQAAAAEAAAAAAAAAAKb5jkBMT80mVezOKIXHCGTjBzvqHsNv1U4hSPiuCBLS
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.13): 1722111930422 tunnel running, 1 tunnels registered
+
+login: https://playit.gg/login/guest-account/AAAAAQAAAAAAAAAAAAqrVgAAAZD13rBgAAAAAQAAAAEAAAAAAAAAAL8VktwdpsD9ykoUwq8zShllyfJLuDzPaVgaJpdiOwO8
+
+TUNNELS
+furniture-planner.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
